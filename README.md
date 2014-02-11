@@ -1,4 +1,4 @@
-Breakout--C-XNA-game-
+Breakout: C# XNA game.
 =====================
 
 A small game written in C# XNA.
