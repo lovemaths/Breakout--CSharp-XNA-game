@@ -110,8 +110,6 @@ namespace Breakout
                 res = Collision.UP;
             }
 
-
-
             return res;
         }
     }
