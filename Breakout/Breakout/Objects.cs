@@ -13,7 +13,7 @@ namespace Breakout
     public enum Collision {NO, LEFT, RIGHT, UP, DOWN};
 
     // base class for ball, paddle, brick
-    public abstract class Objects
+    public class Objects
     {
         public Vector2 position;
         public Vector2 size;
