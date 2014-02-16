@@ -1,8 +1,0 @@
-C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breaks\Breaks\Breaks\bin\x86\Debug\Content\ball.xnb
-C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breaks\Breaks\Breaks\bin\x86\Debug\Content\paddle.xnb
-C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breaks\Breaks\Breaks\bin\x86\Debug\Breaks.exe
-C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breaks\Breaks\Breaks\bin\x86\Debug\Breaks.pdb
-C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breaks\Breaks\Breaks\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breaks\Breaks\Breaks\obj\x86\Debug\Breaks.exe
-C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breaks\Breaks\Breaks\obj\x86\Debug\Breaks.pdb
-C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breaks\Breaks\Breaks\bin\x86\Debug\Content\bricks.xnb

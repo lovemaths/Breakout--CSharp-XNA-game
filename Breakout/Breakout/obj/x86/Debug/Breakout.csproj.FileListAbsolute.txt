@@ -1,0 +1,25 @@
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Breakout.exe
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Breakout.pdb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\obj\x86\Debug\Breakout.exe
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\obj\x86\Debug\Breakout.pdb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Content\ball.xnb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Content\bricks.xnb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Content\paddle1.xnb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Content\paddle2.xnb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Content\hurricane.xnb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\bin\x86\Debug\Content\ball.xnb
+C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\bin\x86\Debug\Content\bricks.xnb
+C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\bin\x86\Debug\Content\paddle1.xnb
+C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\bin\x86\Debug\Content\paddle2.xnb
+C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\bin\x86\Debug\Content\hurricane.xnb
+C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\bin\x86\Debug\Breakout.exe
+C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\bin\x86\Debug\Breakout.pdb
+C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\obj\x86\Debug\Breakout.csprojResolveAssemblyReference.cache
+C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\obj\x86\Debug\Breakout.exe
+C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\obj\x86\Debug\Breakout.pdb

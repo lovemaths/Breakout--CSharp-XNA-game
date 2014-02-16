@@ -1,0 +1,7 @@
+Content\ball.xnb
+Content\bricks.xnb
+Content\paddle1.xnb
+Content\paddle2.xnb
+Content\hurricane.xnb
+Content\gameover.xnb
+Content\Arial.xnb

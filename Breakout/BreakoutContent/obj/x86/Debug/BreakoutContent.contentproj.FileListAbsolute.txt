@@ -1,0 +1,2 @@
+C:\Users\Sijun\Documents\Visual Studio 2010\Projects\Breakout\Breakout\BreakoutContent\obj\x86\Debug\BreakoutContent.contentprojResolveAssemblyReference.cache
+C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\BreakoutContent\obj\x86\Debug\BreakoutContent.contentprojResolveAssemblyReference.cache
