@@ -19,3 +19,4 @@ namespace Breakout
         public static int bricksLeft = 38;
     }    
 }
+
