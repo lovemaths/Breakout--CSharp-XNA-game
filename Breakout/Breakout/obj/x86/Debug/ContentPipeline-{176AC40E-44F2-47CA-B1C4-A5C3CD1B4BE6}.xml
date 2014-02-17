@@ -20,24 +20,6 @@
       <Time>2014-02-16T06:18:16.1160716-08:00</Time>
     </Item>
     <Item>
-      <Source>paddle1.jpg</Source>
-      <Name>paddle1</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\bin\x86\Debug\Content\paddle1.xnb</Output>
-      <Time>2014-02-16T07:18:28.8167063-08:00</Time>
-    </Item>
-    <Item>
-      <Source>paddle2.jpg</Source>
-      <Name>paddle2</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\bin\x86\Debug\Content\paddle2.xnb</Output>
-      <Time>2014-02-16T01:56:47.8857562-08:00</Time>
-    </Item>
-    <Item>
       <Source>hurricane.jpg</Source>
       <Name>hurricane</Name>
       <Importer>TextureImporter</Importer>
@@ -47,15 +29,6 @@
       <Time>2014-02-16T07:33:54.3976465-08:00</Time>
     </Item>
     <Item>
-      <Source>gameover.jpg</Source>
-      <Name>gameover</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\bin\x86\Debug\Content\gameover.xnb</Output>
-      <Time>2014-02-16T07:54:07.2320166-08:00</Time>
-    </Item>
-    <Item>
       <Source>Arial.spritefont</Source>
       <Name>Arial</Name>
       <Importer>FontDescriptionImporter</Importer>
@@ -63,6 +36,15 @@
       <Options>None</Options>
       <Output>C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\bin\x86\Debug\Content\Arial.xnb</Output>
       <Time>2014-02-16T08:13:33.8327424-08:00</Time>
+    </Item>
+    <Item>
+      <Source>paddle.jpg</Source>
+      <Name>paddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sijun\Documents\github\Breakout--CSharp-XNA-game\Breakout\Breakout\bin\x86\Debug\Content\paddle.xnb</Output>
+      <Time>2014-02-16T01:56:47.8857562-08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

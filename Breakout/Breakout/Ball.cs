@@ -16,6 +16,7 @@ namespace Breakout
         public bool moveLeft = false;
         public static float gravity = GlobalData.gravity;
 
+        // if the ball changes direction horizontally or vertically
         public bool verticalMoveChange = false;
         public bool horizontalMoveChange = false;
 
@@ -23,14 +24,14 @@ namespace Breakout
         {
  
         }
+
         public override void Load(ContentManager content)
         {
             ball = content.Load<Texture2D>("ball");
         }
+
         public override void Update(GameTime gameTime)
         {
-            KeyboardState keystate = Keyboard.GetState();
-
             // if the ball reaches the top it can reach, then it move down.
             if (speed.Y <= 0)
             {
@@ -64,9 +65,12 @@ namespace Breakout
             else
                 speed.Y = speed.Y + gravity;
 
+            // after the above runs, already changed the direction, so reset 
+            // the indicator for vertical and horizontal directions change
             verticalMoveChange = false;
             horizontalMoveChange = false;
         }
+
         public override void Draw(SpriteBatch spriteBatch)
         {
             spriteBatch.Draw(ball, position, Color.White);
@@ -74,6 +78,8 @@ namespace Breakout
 
         public override Collision CollideType(Objects objOther)
         {
+            // the left/right/top/bottom sides of the object and objOther, use these data to 
+            // detect collision
             float xLow = this.position.X;
             float xHigh = this.position.X + size.X;
             float yLow = this.position.Y;
@@ -82,9 +88,11 @@ namespace Breakout
             float xlHigh = objOther.position.X + objOther.size.X;
             float ylLow = objOther.position.Y;
             float ylHigh = objOther.position.Y + objOther.size.Y;
+
+            // res records if collision happens
             Collision res = Collision.NO;
 
-            // just left collision
+            // left collision
             if (!horizontalMoveChange && moveLeft && xLow - xlHigh >= -err && xLow - xlHigh <= 0
                 && (ylLow - yHigh <= -err && yLow - ylHigh <= -err))
             {
@@ -93,7 +101,7 @@ namespace Breakout
                 res = Collision.UP;
             }
 
-            // just right collision
+            // right collision
             if (!horizontalMoveChange && !moveLeft && xlLow - xHigh >= -err && xlLow - xHigh <= 0
                 && (ylLow - yHigh <= -err && yLow - ylHigh <= -err))
             {
@@ -102,7 +110,7 @@ namespace Breakout
                 res = Collision.UP;
             }
 
-            // just up collision
+            // top collision
             if (!verticalMoveChange && moveUp && (xLow - xlHigh <= -err && xlLow - xHigh <= -err)
                 && yLow - ylHigh >= -err && yLow - ylHigh <= 0)
             {
@@ -111,7 +119,7 @@ namespace Breakout
                 res = Collision.UP;
             }
 
-            // just down collision
+            // down collision
             if (!verticalMoveChange && !moveUp && (xLow - xlHigh <= -err && xlLow - xHigh <= -err)
                 && ylLow - yHigh >= -err && ylLow - yHigh <= 0)
             {

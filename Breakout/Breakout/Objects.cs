@@ -9,10 +9,14 @@ using Microsoft.Xna.Framework.Input;
 
 namespace Breakout
 {
-    // collision types, from left, right, up, down or no collision
+    /// <summary>
+    /// collision types, from left, right, up, down or no collision
+    /// </summary> 
     public enum Collision {NO, LEFT, RIGHT, UP, DOWN};
 
-    // base class for ball, paddle, brick
+    /// <summary>
+    /// base class for ball, paddle, brick
+    /// </summary> 
     public class Objects
     {
         public Vector2 position;
@@ -43,12 +47,17 @@ namespace Breakout
             return Collision.NO;
         }
 
+        // the methods will be overridden in the derived classes
         public virtual void Load(ContentManager content)
         {
         }
+
+        // the methods will be overridden in the derived classes
         public virtual void Update(GameTime gameTime)
         { 
         }
+
+        // the methods will be overridden in the derived classes
         public virtual void Draw(SpriteBatch spriteBatch) 
         {
         }
